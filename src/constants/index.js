@@ -297,32 +297,26 @@ export const benefits = [
 export const socials = [
   {
     id: "0",
-    title: "Discord",
-    iconUrl: discordBlack,
-    url: "#",
+    title: "Twitter",
+    iconUrl: twitter,
+    url: "https://twitter.com/Dhanush1234N",
   },
   {
     id: "1",
-    title: "Twitter",
-    iconUrl: twitter,
-    url: "#",
+    title: "Instagram",
+    iconUrl: instagram,
+    url: "https://www.instagram.com/dhanush__perumalla__/",
   },
   {
     id: "2",
-    title: "Instagram",
-    iconUrl: instagram,
-    url: "#",
-  },
-  {
-    id: "3",
     title: "Telegram",
     iconUrl: telegram,
     url: "#",
   },
   {
-    id: "4",
+    id: "3",
     title: "Facebook",
     iconUrl: facebook,
-    url: "#",
+    url: "https://www.facebook.com/dhanush.parumalla",
   },
 ];
